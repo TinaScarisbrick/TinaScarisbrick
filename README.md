@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TinaScarisbrick - I am on the Talent Acquitition team at Lockheed Martin Missiles & Fire Control (MFC)
-- 👀 I am HIRING Systems Engineers and Embedded Software Engineers with DoD clearance
+- 👋 Hi, I’m @TinaScarisbrick - Member of the Talent Acquisition team at Lockheed Martin Missiles & Fire Control (MFC)
+- 👀 HIRING Systems Engineers and Embedded Software Engineers with DoD clearance
 - 🌱 At Lockheed Martin MFC - our engineering jobs are located in Orlando, FL and Grand Prairie, TX (relocation assistance available)
 
 - 📫 How to reach me ... tina.scarisbrick@lmco.com or connect with me on LinkedIn https://www.linkedin.com/in/tina-scarisbrick/
